@@ -3,3 +3,4 @@ public/
 
 .serverless/
 .env_temp
+.idea
