@@ -1,17 +1,17 @@
 module.exports = {
-  title: "天如",
-  description: '做个追求的程序员.',
+  title: 'Deo',
+  description: '这是签名',
   dest: 'public',
   head: [
-    ['link', {rel: 'icon', href: '/favicon.ico'}],
-    ['meta', {name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no'}]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   theme: 'reco',
   themeConfig: {
     nav: [
-      {text: 'Home', link: '/', icon: 'reco-home'},
-      {text: 'TimeLine', link: '/timeline/', icon: 'reco-date'},
-      {text: 'GitHub', link: 'https://github.com/myfjdthink', icon: 'reco-github'}
+      { text: 'Home', link: '/', icon: 'reco-home' },
+      { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
+      { text: 'GitHub', link: 'https://github.com/myfjdthink', icon: 'reco-github' }
     ],
     // sidebar: {
     //   '/docs/theme-reco/': [
@@ -65,13 +65,13 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'Nick Feng',
+    author: 'Deo',
     // 作者头像
     authorAvatar: '/avatar.jpg',
     // 备案号
-    record: '粤ICP备18051267号',
+    // record: '粤ICP备18051267号',
     // 项目开始时间
-    startYear: '2015',
+    startYear: '2020',
     /**
      * 密钥 (if your blog is private)
      */

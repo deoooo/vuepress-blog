@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 天如
-tagline: 做个追求的程序员
+heroText: Deo
+tagline: 这是签名
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
