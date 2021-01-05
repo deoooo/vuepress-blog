@@ -1,5 +1,4 @@
 node_modules/
-public/
 
 .serverless/
 .env_temp
